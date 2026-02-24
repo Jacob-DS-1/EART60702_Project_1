@@ -26,4 +26,4 @@
 <br>Primary Libraries: pandas, numpy, matplotlib, seaborn, scipy, folium.
 <br>Dataset: project_1.csv containing 27,374 daily meteorological records.
 
-**Authors：Jacob Woodland, Shiyu Wang, Hanjin Yue**
+**Authors: Jacob Woodland, Shiyu Wang, Hanjin Yue**
