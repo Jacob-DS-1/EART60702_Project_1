@@ -24,4 +24,3 @@ Dataset: project_1.csv containing 27,374 daily meteorological records.
 
 Authors：Jacob Woodland, Shiyu Wang, Hanjin Yue
 
-<img width="415" height="653" alt="image" src="https://github.com/user-attachments/assets/1c05d4e6-69e1-4e8d-a88d-125c1db8a4de" />
